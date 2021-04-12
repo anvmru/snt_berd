@@ -1,0 +1,27 @@
+Alias name: astarkey
+Creation date: 04.03.2021
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN="Anvm O=FlutterSoft C=RU"
+Issuer: CN="Anvm O=FlutterSoft C=RU"
+Serial number: 654bdf56
+Valid from: Thu Mar 04 12:46:33 NOVT 2021 until: Mon Jul 20 12:46:33 NOVT 2048
+Certificate fingerprints:
+	 MD5:  36:C7:15:BF:5B:72:2D:C6:68:B9:FB:6F:09:6F:56:97
+	 SHA1: 48:75:2C:1B:46:D3:97:CF:3F:9A:4E:43:05:4B:B2:86:96:C9:F4:EC
+	 SHA256: 83:BA:06:9D:46:CA:79:83:34:00:4A:07:16:6B:D3:0D:0B:61:98:AA:C4:66:D5:E5:FA:93:56:04:2D:1A:01:B2
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 9E E9 FE B9 04 29 D9 B9   2E FC C2 2B CA CD 97 2D  .....).....+...-
+0010: 2C 9E F1 A4                                        ,...
+]
+]
+
