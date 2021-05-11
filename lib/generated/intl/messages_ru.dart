@@ -31,6 +31,8 @@ class MessageLookup extends MessageLookupByLibrary {
     "btn_ok" : MessageLookupByLibrary.simpleMessage("OK"),
     "btn_save" : MessageLookupByLibrary.simpleMessage("Готово"),
     "btn_yes" : MessageLookupByLibrary.simpleMessage("Да"),
+    "login_mode_psw" : MessageLookupByLibrary.simpleMessage("Авторизация с паролем"),
+    "login_mode_sms" : MessageLookupByLibrary.simpleMessage("SMS авторизация"),
     "menu_logout" : MessageLookupByLibrary.simpleMessage("Выйти"),
     "menu_profile" : MessageLookupByLibrary.simpleMessage("Профиль"),
     "menu_setting" : MessageLookupByLibrary.simpleMessage("Настройки"),
@@ -42,6 +44,8 @@ class MessageLookup extends MessageLookupByLibrary {
     "title_login" : MessageLookupByLibrary.simpleMessage("Войти"),
     "title_pers_data" : MessageLookupByLibrary.simpleMessage("Введите ваши персональные данные и фотографию"),
     "title_signup" : MessageLookupByLibrary.simpleMessage("Регистрация"),
-    "valid_name" : MessageLookupByLibrary.simpleMessage("Пожалуйста, введите Ваше имя")
+    "valid_name" : MessageLookupByLibrary.simpleMessage("Пожалуйста, введите Ваше имя"),
+    "valid_phone" : MessageLookupByLibrary.simpleMessage("Пожалуйста, введите номер телефона"),
+    "valid_phonev" : MessageLookupByLibrary.simpleMessage("Пожалуйста, введите правильный номер телефона")
   };
 }

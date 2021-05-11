@@ -245,11 +245,51 @@ class S {
     );
   }
 
+  /// `Please enter your phone number`
+  String get valid_phone {
+    return Intl.message(
+      'Please enter your phone number',
+      name: 'valid_phone',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Please enter a valid phone number`
+  String get valid_phonev {
+    return Intl.message(
+      'Please enter a valid phone number',
+      name: 'valid_phonev',
+      desc: '',
+      args: [],
+    );
+  }
+
   /// `Sign In with Google`
   String get sign_google {
     return Intl.message(
       'Sign In with Google',
       name: 'sign_google',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `SMS authorization`
+  String get login_mode_sms {
+    return Intl.message(
+      'SMS authorization',
+      name: 'login_mode_sms',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Password authorization`
+  String get login_mode_psw {
+    return Intl.message(
+      'Password authorization',
+      name: 'login_mode_psw',
       desc: '',
       args: [],
     );

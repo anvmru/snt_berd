@@ -20,5 +20,9 @@
   "btn_ok" : "OK",
   "title_pers_data" : "Enter your personal data and photo",
   "valid_name" : "Please enter your name",
-  "sign_google" : "Sign In with Google"
+  "valid_phone" : "Please enter your phone number",
+  "valid_phonev" : "Please enter a valid phone number",
+  "sign_google" : "Sign In with Google",
+  "login_mode_sms" : "SMS authorization",
+  "login_mode_psw" : "Password authorization"
 }

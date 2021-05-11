@@ -31,6 +31,8 @@ class MessageLookup extends MessageLookupByLibrary {
     "btn_ok" : MessageLookupByLibrary.simpleMessage("OK"),
     "btn_save" : MessageLookupByLibrary.simpleMessage("Ok"),
     "btn_yes" : MessageLookupByLibrary.simpleMessage("Yes"),
+    "login_mode_psw" : MessageLookupByLibrary.simpleMessage("Password authorization"),
+    "login_mode_sms" : MessageLookupByLibrary.simpleMessage("SMS authorization"),
     "menu_logout" : MessageLookupByLibrary.simpleMessage("Log Out"),
     "menu_profile" : MessageLookupByLibrary.simpleMessage("Profile"),
     "menu_setting" : MessageLookupByLibrary.simpleMessage("Settings"),
@@ -42,6 +44,8 @@ class MessageLookup extends MessageLookupByLibrary {
     "title_login" : MessageLookupByLibrary.simpleMessage("Log In"),
     "title_pers_data" : MessageLookupByLibrary.simpleMessage("Enter your personal data and photo"),
     "title_signup" : MessageLookupByLibrary.simpleMessage("SignUp"),
-    "valid_name" : MessageLookupByLibrary.simpleMessage("Please enter your name")
+    "valid_name" : MessageLookupByLibrary.simpleMessage("Please enter your name"),
+    "valid_phone" : MessageLookupByLibrary.simpleMessage("Please enter your phone number"),
+    "valid_phonev" : MessageLookupByLibrary.simpleMessage("Please enter a valid phone number")
   };
 }
