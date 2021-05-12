@@ -42,7 +42,7 @@ class MessageLookup extends MessageLookupByLibrary {
     "person_phone" : MessageLookupByLibrary.simpleMessage("Контактный телефон"),
     "sign_google" : MessageLookupByLibrary.simpleMessage("Войти через Google"),
     "title_login" : MessageLookupByLibrary.simpleMessage("Войти"),
-    "title_pers_data" : MessageLookupByLibrary.simpleMessage("Введите ваши персональные данные и фотографию"),
+    "title_pers_data" : MessageLookupByLibrary.simpleMessage("Введите ваши: имя, телефон и фотографию"),
     "title_signup" : MessageLookupByLibrary.simpleMessage("Регистрация"),
     "valid_name" : MessageLookupByLibrary.simpleMessage("Пожалуйста, введите Ваше имя"),
     "valid_phone" : MessageLookupByLibrary.simpleMessage("Пожалуйста, введите номер телефона"),
